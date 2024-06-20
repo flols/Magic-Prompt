@@ -1,14 +1,14 @@
 # My Magic Prompt
 
 ## Description
-My Magic Prompt est un script Bash interactif offrant une variété de fonctionnalités utiles pour la gestion des fichiers et des dossiers, l'accès aux informations système, l'envoi de mails, et bien plus encore.
+My Magic Prompt est un script Bash interactif offrant une variété de fonctionnalités pour la gestion des fichiers et des dossiers, l'accès aux informations système et autres.
 
 ## Installation
 
 ### Prérequis
 - Bash
-- WSL (Windows Subsystem for Linux) sous Windows 10 ou 11
-- Utilitaires `curl` et `mailutils`
+- WSL
+- `curl` et `mailutils`
 
 ### Utilisation
 Pour démarrer le prompt, exécutez le script main.sh :
